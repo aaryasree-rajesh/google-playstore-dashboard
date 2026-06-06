@@ -1,7 +1,7 @@
 # Google Play Store Analytics Dashboard
 
 ## Live Dashboard
-🔗 [Click here to view live dashboard](#)
+🔗 [Click here to view live dashboard](https://mybinder.org/v2/gh/aaryasree-rajesh/google-playstore-dashboard/HEAD?urlpath=voila/render/Untitled2.ipynb)
 
 ## Overview
 Interactive analytics dashboard built on the Google Play Store dataset
