@@ -4,3 +4,4 @@ plotly
 pytz
 ipywidgets
 voila
+matplotlib
